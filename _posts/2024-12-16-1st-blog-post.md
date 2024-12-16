@@ -8,4 +8,4 @@ things i want to research
 - time series ARIMA , SARIMA implementation
 - RNN and LSTM time series implementation
 - steps to writing a research paper i.e lit review abstract etc .
-- 
+- research papers i have read hella dumbed down and explained 
