@@ -10,4 +10,6 @@ things i want to research
 - steps to writing a research paper i.e lit review abstract etc .
 - research papers i have read hella dumbed down and explained
 - MLOPS
-- commercial awareness stuff 
+- commercial awareness stuff
+- A/B testing and how to implement it
+- cloup platforms 
