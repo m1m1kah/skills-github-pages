@@ -11,5 +11,5 @@ things i want to research
 - research papers i have read hella dumbed down and explained
 - MLOPS
 - commercial awareness stuff
-- A/B testing and how to implement it
+- A/B testing and how to implement it using kaggle cookie cats data
 - cloup platforms 
