@@ -69,3 +69,9 @@ Provide insights into why the method performs well (or poorly).
 Summarize the key contributions and findings.
 Discuss broader implications or applications of the work.
 Mention future directions or open questions.
+
+
+
+papers i want to read and summarise 
+- leNet 
+- AlexNet
